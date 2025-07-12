@@ -82,3 +82,13 @@ input:focus {
         flex-direction: column;
     }
 }
+@media (max-width: 360px){
+    .content{
+        padding-top: 620px !important;
+    }
+}
+@media (max-width: 1050px){
+    .container>.content{
+        padding-top: 360px;
+    }
+}

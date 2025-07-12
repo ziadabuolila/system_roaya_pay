@@ -82,3 +82,8 @@ input:focus {
         flex-direction: column;
     }
 }
+@media (max-width: 360px) {
+    .joinup {
+        padding-top: 120px;
+    }
+}

@@ -82,3 +82,13 @@ input:focus {
         flex-direction: column;
     }
 }
+@media (max-width: 1050px) {
+    .profile {
+        padding-top: 260px;
+    }
+}
+@media (max-width: 360px) {
+    .profile {
+        padding-top: 525px;
+    }
+}
